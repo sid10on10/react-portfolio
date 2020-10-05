@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7033e124.chunk.css",
+    "main.js": "/static/js/main.094566dc.chunk.js",
+    "main.js.map": "/static/js/main.094566dc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1d3dd508.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1d3dd508.js.map",
+    "static/js/2.a79b504d.chunk.js": "/static/js/2.a79b504d.chunk.js",
+    "static/js/2.a79b504d.chunk.js.map": "/static/js/2.a79b504d.chunk.js.map",
+    "static/css/3.879e9400.chunk.css": "/static/css/3.879e9400.chunk.css",
+    "static/js/3.f773fc14.chunk.js": "/static/js/3.f773fc14.chunk.js",
+    "static/js/3.f773fc14.chunk.js.map": "/static/js/3.f773fc14.chunk.js.map",
+    "static/css/4.54df59d4.chunk.css": "/static/css/4.54df59d4.chunk.css",
+    "static/js/4.8401ca8b.chunk.js": "/static/js/4.8401ca8b.chunk.js",
+    "static/js/4.8401ca8b.chunk.js.map": "/static/js/4.8401ca8b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.caefe4da8ad2f7184802c512a62ae629.js": "/precache-manifest.caefe4da8ad2f7184802c512a62ae629.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.879e9400.chunk.css.map": "/static/css/3.879e9400.chunk.css.map",
+    "static/css/4.54df59d4.chunk.css.map": "/static/css/4.54df59d4.chunk.css.map",
+    "static/css/main.7033e124.chunk.css.map": "/static/css/main.7033e124.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/bhu.png": "/static/media/bhu.2962b0a9.png",
+    "static/media/certificate1.jpg": "/static/media/certificate1.571184df.jpg",
+    "static/media/certificate2.png": "/static/media/certificate2.5d947fea.png",
+    "static/media/certificate3.jpg": "/static/media/certificate3.e9d30b35.jpg",
+    "static/media/certificate4.jpg": "/static/media/certificate4.4d7663bf.jpg",
+    "static/media/codementor.jpg": "/static/media/codementor.bab3e761.jpg",
+    "static/media/contactMail.webp": "/static/media/contactMail.68e84138.webp",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/iitbhu.jpeg": "/static/media/iitbhu.cabc6a8d.jpeg",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/tessact.png": "/static/media/tessact.2153f053.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d3dd508.js",
+    "static/js/2.a79b504d.chunk.js",
+    "static/css/main.7033e124.chunk.css",
+    "static/js/main.094566dc.chunk.js"
+  ]
+}
