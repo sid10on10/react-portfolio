@@ -10,7 +10,7 @@ const greeting = {
   username: "Siddhant Singh",
   title: "Hi, I'm Siddhant",
   subTitle: emoji("A passionate Full-Stack Developer 🚀 having an experience of building Web applications with Python / JavaScript / Reactjs / Nodejs / Django /Express."),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1IVsqUYD4NOJ9oDzUIRRVfRWQX09Qq1I2/view?usp=sharing"
 };
 
 // Your Social Media Link
@@ -291,8 +291,8 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle: "Discuss a project or loved my work? Feel free to reach me.",
-  number: "+91-9140980763",
+  subtitle: "Discuss a project or loved my work? Feel free to reach me.+919140980763",
+  number: "+919140980763",
   email_address: "siddhantk.singh.phe14@iitbhu.ac.in"
 };
 
